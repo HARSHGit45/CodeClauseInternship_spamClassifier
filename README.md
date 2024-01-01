@@ -7,10 +7,8 @@ This project is a simple spam detection system using a logistic regression model
 
 ## Project Structure
 
-- `spam_detection.py`: The main script containing the code for training the model and making predictions.
+- `spam_classifier.ipynb`: The main script containing the code for training the model and making predictions.
 - `requirements.txt`: Lists the required Python libraries for the project.
-- `data/`: Directory containing the training data.
-- `models/`: Directory to save the trained model.
 - `README.md`: Project documentation.
 
 ## Usage
