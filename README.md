@@ -16,8 +16,7 @@ This project is a simple spam detection system using a logistic regression model
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/spam-detection.git
-    cd spam-detection
+    git clone https://github.com/HARSHGit45/CodeClauseInternship_spamClassifier.git
     ```
 
 2. Install the required dependencies:
