@@ -29,7 +29,7 @@ This project is a simple spam detection system using a logistic regression model
 3. Run the spam detection script:
 
     ```bash
-    python spam_detection.py
+    python spam_classifier.ipynb
     ```
 
     Follow the on-screen instructions to enter the content of the email and see the prediction.
@@ -42,7 +42,7 @@ This project is a simple spam detection system using a logistic regression model
 
 ## Author
 
-- Your Name
+- Harshal Mali
 
 ## License
 
