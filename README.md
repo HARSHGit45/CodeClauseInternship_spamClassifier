@@ -1,2 +1,52 @@
 # CodeClauseInternship_spamClassifier
 Checking whether a mail is Spam or not using Logistic Regression
+
+# Spam Detection Project
+
+This project is a simple spam detection system using a logistic regression model with TF-IDF vectorization. It takes user input for email content and predicts whether the input is spam or not.
+
+## Project Structure
+
+- `spam_detection.py`: The main script containing the code for training the model and making predictions.
+- `requirements.txt`: Lists the required Python libraries for the project.
+- `data/`: Directory containing the training data.
+- `models/`: Directory to save the trained model.
+- `README.md`: Project documentation.
+
+## Usage
+
+1. Clone the repository:
+
+    ```bash
+    git clone https://github.com/yourusername/spam-detection.git
+    cd spam-detection
+    ```
+
+2. Install the required dependencies:
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+3. Run the spam detection script:
+
+    ```bash
+    python spam_detection.py
+    ```
+
+    Follow the on-screen instructions to enter the content of the email and see the prediction.
+
+## Dependencies
+
+- scikit-learn
+- numpy
+- pandas
+
+## Author
+
+- Your Name
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
