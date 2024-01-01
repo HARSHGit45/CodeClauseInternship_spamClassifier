@@ -6,7 +6,7 @@ Checking whether a mail is Spam or not using Logistic Regression
 This project is a simple spam detection system using a logistic regression model with TF-IDF vectorization. It takes user input for email content and predicts whether the input is spam or not.
 
 ## Project Structure
-
+-for `combined_data.csv` for dataset visit the website : https://www.kaggle.com/datasets/purusinghvi/email-spam-classification-dataset
 - `spam_classifier.ipynb`: The main script containing the code for training the model and making predictions.
 - `requirements.txt`: Lists the required Python libraries for the project.
 - `README.md`: Project documentation.
